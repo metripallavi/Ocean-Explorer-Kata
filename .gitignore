@@ -1,12 +1,4 @@
 target/
 *.class
-*.log
-*.jar
-*.war
-*.ear
-
-.idea/
 .vscode/
-*.iml
-
-.DS_Store
+.idea/
